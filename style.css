@@ -2,7 +2,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
-/*===== VARIABLES CSS =====*/
+/*===== VARIAVEIS CSS =====*/
 
 :root {
     --header-height: 3rem;
@@ -10,7 +10,7 @@
 }
 
 
-/*===== Colores =====*/
+/*===== Cores =====*/
 
 :root {
     /*--first-color: #4070F4;*/
@@ -20,7 +20,7 @@
 }
 
 
-/*===== Fuente y tipografia =====*/
+/*===== Fonte e tipografia =====*/
 
 :root {
     --body-font: 'Poppins', sans-serif;
@@ -38,7 +38,7 @@
 }
 
 
-/*===== Margenes =====*/
+/*===== Margens =====*/
 
 :root {
     --mb-1: 0.5rem;
@@ -374,7 +374,7 @@ img {
 }
 
 .skills__py {
-    width: 85%;
+    width: 25%;
 }
 
 .skills__img {
